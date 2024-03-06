@@ -48,8 +48,11 @@ Then combine the table with Jan-May, find out which region has the lowest sales 
 
 #### 4. Answer
 Group by Month
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/ede7453f-c80c-469f-b136-57af1ac100e4)
+
 Group by Store Name
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/a79ddcd9-17d4-45b4-b8a8-a669b67c1f77)
 
 ANS D
