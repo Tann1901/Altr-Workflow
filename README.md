@@ -81,9 +81,11 @@ Find Which city has the largest total sales.
 
 #### 4. Answer
 Macro to standardize column title across sheets 
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/bb4d7cac-adab-4630-8bb8-a86849ede0d2)
 
 Sum Sales by City 
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/17c8b38e-ea42-4dfd-a1a7-c4d17a55da0d)
 
 ANS Colorado Springs
