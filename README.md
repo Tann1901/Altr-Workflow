@@ -60,15 +60,19 @@ ANS D
 ## Example 4: Find date with highest total value
 #### 1. Data sample
 Single store report
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/883abdb3-36d5-41c1-8d0b-15b3b894e74e)
 
 Multiple store report across sheets
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/9ccb3978-1abb-44e2-9ec2-27414b0e6db6)
 
 Name standardized
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/41a88c2b-1932-4c36-9d2e-575db0891a86)
 
 City and Store ID 
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/9e271212-b5d5-4b69-84d8-e87bf5db34b7)
 
 
