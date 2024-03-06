@@ -15,6 +15,7 @@ Then, identify the day when this employee received the highest total value of do
 
 #### 4. Answer
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/e88aa2dd-040d-44a5-9d3e-3227ef7b18f6)
+
 ANS 03-02
 
 ## Example 2: Find date with highest total value
@@ -29,18 +30,22 @@ HR wants to know how many employees are three levels below the CEO in the report
 
 #### 4. Answer
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/801b70db-8537-4da1-942d-234360bcfc7e)
+
 ANS 84
 
 ## Example 3: Find date with highest total value
 #### 1. Data sample
 Sales Jan-May
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/3898f7d5-ce7b-447f-a3df-becd2c2e9ff6)
 
 Sales June
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/9a685d8a-fe32-4d8c-8894-d1a0f29ed992)
 
 #### 2. Questions
 Calculate the total sales from the ten lowest performing stores in each region in the June table.
+
 Then combine the table with Jan-May, find out which region has the lowest sales total from Jan - June.
 
 #### 3. Work Flow
@@ -59,6 +64,7 @@ ANS D
 
 ## Example 4: Find date with highest total value
 #### 1. Data sample
+
 Single store report
 
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/883abdb3-36d5-41c1-8d0b-15b3b894e74e)
@@ -77,7 +83,10 @@ City and Store ID
 
 
 #### 2. Questions
-Request a report a full report of every store. However, each store's report has 4 columns but varies in column headers and order. All store reports are saved as separate sheets in the dataset. The dataset also includes the city where each store is located, helping to standardize column headers. 
+Request a report a full report of every store. However, each store's report has 4 columns but varies in column headers and order. All store reports are saved as separate sheets in the dataset. 
+
+The dataset also includes the city where each store is located, helping to standardize column headers. 
+
 Find Which city has the largest total sales.
 
 #### 3. Work Flow
