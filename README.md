@@ -56,3 +56,34 @@ Group by Store Name
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/a79ddcd9-17d4-45b4-b8a8-a669b67c1f77)
 
 ANS D
+
+## Example 4: Find date with highest total value
+#### 1. Data sample
+Single store report
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/883abdb3-36d5-41c1-8d0b-15b3b894e74e)
+
+Multiple store report across sheets
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/9ccb3978-1abb-44e2-9ec2-27414b0e6db6)
+
+Name standardized
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/41a88c2b-1932-4c36-9d2e-575db0891a86)
+
+City and Store ID 
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/9e271212-b5d5-4b69-84d8-e87bf5db34b7)
+
+
+#### 2. Questions
+Request a report a full report of every store. However, each store's report has 4 columns but varies in column headers and order. All store reports are saved as separate sheets in the dataset. The dataset also includes the city where each store is located, helping to standardize column headers. 
+Find Which city has the largest total sales.
+
+#### 3. Work Flow
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/0e8fe11d-d85c-46c5-ad0b-7f7781e51d38)
+
+#### 4. Answer
+Macro to standardize column title across sheets 
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/bb4d7cac-adab-4630-8bb8-a86849ede0d2)
+
+Sum Sales by City 
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/17c8b38e-ea42-4dfd-a1a7-c4d17a55da0d)
+
+ANS Colorado Springs
