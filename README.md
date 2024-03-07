@@ -120,6 +120,7 @@ ANS Colorado Springs
 #### 1. Data sample
 
 Team member assignment
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/33651a64-ebe0-43bb-8888-0f5d77f0006f)
 
 
