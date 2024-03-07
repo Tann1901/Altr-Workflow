@@ -114,3 +114,41 @@ Sum Sales by City
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/17c8b38e-ea42-4dfd-a1a7-c4d17a55da0d)
 
 ANS Colorado Springs
+
+
+## Example 5: Team member assignment
+#### 1. Data sample
+
+Team member assignment
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/33651a64-ebe0-43bb-8888-0f5d77f0006f)
+
+
+#### 2. Questions
+Team members will be split into 25 groups and sent to different locations to perform community service. Some of the members have already been assigned a group, but most have not.
+Assign the remaining members to groups so that each group has a total of 20 volunteers.
+Perform the assignment in order by member number. For example, if group 1 needs ten more volunteers, assign the first ten available volunteers to that group. The same process would repeat for group 2, then group 3, etc. until all 500 members are assigned to a group
+What is the sum of the group numbers for memeber 1617, 1755, and 1870?
+
+#### 3. Work Flow
+
+Split the table into null and not null.
+With not-null containing values, count how many values lack in each group and assign row count of remaining in each group and create an index for whole table.
+With null contained values, create an index value.
+Join by index value of two to match with the listing of remaining with the name of members.
+Combine with original filled data.
+
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/30d0bd00-cab8-49b5-ba35-c0223ca08e9c)
+
+
+#### 4. Answer
+
+Assigned table 
+
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/b82949c2-8dc4-4220-9ed7-855e9ab525bf)
+
+Sum of group 
+
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/4b41f3da-6587-42bd-a524-a05614ba6827)
+
+![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/3f483e3b-28f4-4118-8fe7-87f237243c4c)
+
