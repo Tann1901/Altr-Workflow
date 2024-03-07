@@ -11,6 +11,9 @@ Find the employee with the shortest average time between consecutive calls durin
 Then, identify the day when this employee received the highest total value of donations.
 
 #### 3. Work Flow
+Replace null with 0, sum all value, find average duration in seconds, sum of total value and group by employee name.
+After finding the Employee name with shortest average time, I sort the value descendingly and splite text of date time, and sum the value of donations by day.
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/6f9f11cd-acb6-469c-85f6-7f55400079f5)
 
 #### 4. Answer
@@ -26,6 +29,7 @@ ANS 03-02
 HR wants to know how many employees are three levels below the CEO in the reporting structure, excluding their own level and the level of the CEO (CEO = null).
 
 #### 3. Work Flow
+I perform data cleaning, then join the Manager ID with Employee ID consecutively from top to bottom and count the employees when join finish.
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/3c8c5ea9-a99d-497a-a504-ada878c42829)
 
 #### 4. Answer
@@ -49,6 +53,9 @@ Calculate the total sales from the ten lowest performing stores in each region i
 Then combine the table with Jan-May, find out which region has the lowest sales total from Jan - June.
 
 #### 3. Work Flow
+In June data, due to data was squeezed together, I split them by the pattern. Then I divide in different regions and sum the sales, filter the top 10 of them and union, group by store.
+I then transpose data to match with Jan-May format. I fill in the name of June in Month column, calculate and define the total.
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/f4cf7224-ee8f-47fd-a265-570078021ac3)
 
 #### 4. Answer
@@ -90,6 +97,11 @@ The dataset also includes the city where each store is located, helping to stand
 Find Which city has the largest total sales.
 
 #### 3. Work Flow
+
+I created a macro for one sheet to standardized name.
+The I applied macro for all of the sheets.
+Then I join with the city name for inputs and sum the sales, sort it descending.
+
 ![image](https://github.com/Tann1901/Altr-Workflow/assets/108020327/0e8fe11d-d85c-46c5-ad0b-7f7781e51d38)
 
 #### 4. Answer
